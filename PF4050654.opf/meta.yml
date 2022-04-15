@@ -1,0 +1,28 @@
+id: PF4050654
+initial_creation_type: input
+source_metadata:
+  title: Vajrakīla maṇḍala ritual by Bla ma dam pa (block print), colophon excerpt
+  author: bla ma dam pa bsod nams rgyal mtshan/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-06-03); revised, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4880
+  bases:
+    f5f8:
+      title: Vajrakīla maṇḍala ritual by Bla ma dam pa (block print), colophon excerpt
+      order: 1
+      base_file: f5f8.txt
+created_at: '2022-04-15T18:49:18.498135'
+last_modified_at: '2022-04-15T18:49:18.498141'
+quality: null
